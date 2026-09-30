@@ -1,0 +1,12 @@
+# Account-wide default funding config for every repo under RitwickVerma.
+# PATH IS LOAD-BEARING: FUNDING.yml is the one community health file that must
+# live in a .github folder — hence .github/.github/FUNDING.yml in this repo.
+# A copy at the repo root is ignored by GitHub. Verified against the docs.
+
+ko_fi: ritwickverma
+custom: ["https://ramen.ritwickverma.dev"]
+
+# Uncomment once GitHub Sponsors enrolment completes (needs Stripe + tax details):
+# github: [RitwickVerma]
+
+# Deliberately unused: Liberapay is recurring-only and caps giving at $100/week.
